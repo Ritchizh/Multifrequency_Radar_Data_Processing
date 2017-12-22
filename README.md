@@ -1,6 +1,7 @@
 # Multifrequency_Radar_Data_Processing
 
 Big_22.2_26.2_nf11_56x43cm_3mm_d9cm - is the radar data file
+myfile_phi.txt - contains calibration coefficients for the phase linearization
 
 Main_Reconstruct_and_Proc.py - the main scipt with the code to read, process and visualize data with various options
 Methods_Reconstruct_and_Proc.py - the script with all methods implementation
