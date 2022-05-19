@@ -1,5 +1,10 @@
 # Multifrequency_Radar_Data_Processing
 
+<p align="center">
+<img src = "https://github.com/Ritchizh/Multifrequency_Radar_Data_Processing/blob/master/imgs_for_readme/Fig_PUF_sample.png" height = 250>
+<img src = "https://github.com/Ritchizh/Multifrequency_Radar_Data_Processing/blob/master/imgs_for_readme/R_example_rec.jpg" height = 200>
+</p>
+
 Big_22.2_26.2_nf11_56x43cm_3mm_d9cm - is the radar data file;
 myfile_phi.txt - contains calibration coefficients for the phase linearization;
 
