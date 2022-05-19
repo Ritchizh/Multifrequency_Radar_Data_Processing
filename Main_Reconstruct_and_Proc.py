@@ -8,6 +8,10 @@ Created on Wed Dec 20 12:41:24 2017
 #import numpy as np
 import matplotlib.pyplot as plt
 
+## On Windows may need to add project folder to path to be able to import Python script as a module:
+# import sys
+# sys.path.append('C:/Users/Margarita/Desktop/Multifrequency_Radar_Data_Processing-master/')
+
 import Methods_Reconstruct_and_Proc #import class with the processing methods
 pr = Methods_Reconstruct_and_Proc.RECONSTR()
 
